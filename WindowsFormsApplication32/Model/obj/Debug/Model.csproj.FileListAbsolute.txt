@@ -1,0 +1,5 @@
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\Model\bin\Debug\Model.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\Model\bin\Debug\Model.pdb
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\Model\obj\Debug\Model.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\Model\obj\Debug\Model.pdb
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

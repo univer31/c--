@@ -1,0 +1,13 @@
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\BLL.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\BLL.pdb
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\Common.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\DAL.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\Model.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\Common.pdb
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\DAL.pdb
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\Model.pdb
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\obj\Debug\BLL.dll
+c:\users\17353\documents\visual studio 2013\Projects\WindowsFormsApplication32\BLL\obj\Debug\BLL.pdb
+C:\Users\17353\Documents\Visual Studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\Tools.dll
+C:\Users\17353\Documents\Visual Studio 2013\Projects\WindowsFormsApplication32\BLL\bin\Debug\Tools.pdb
